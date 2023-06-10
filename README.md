@@ -1,0 +1,2 @@
+# Spinner
+* cursor animation
