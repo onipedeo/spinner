@@ -10,6 +10,6 @@ const spinner = function() {
 
     delay += 200;
   }
-}
+};
 
 spinner();
